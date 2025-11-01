@@ -9,7 +9,7 @@ A lightweight PHP logger that records datetime, IP address, user agent, and mess
 ## Installation
 
 ```bash
-composer require Deadpool2000/quicklogphp
+composer require deadpool2k/quicklogphp
 ```
 
 ## Usage
