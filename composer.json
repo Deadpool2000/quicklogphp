@@ -1,0 +1,20 @@
+{
+  "name": "deadpool2k/quicklogphp",
+  "description": "A simple, fast PHP logging library that logs datetime, IP, user-agent, and message details.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Deadpool2k",
+      "email": "d2kyt@protonmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "QuickLogPHP\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}

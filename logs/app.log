@@ -1,0 +1,4 @@
+[2025-11-01 09:35:46]:[CLI]:[CLI]:[INFO]:User logged in | {"username":"john_doe"}
+[2025-11-01 09:35:46]:[CLI]:[CLI]:[WARNING]:Low disk space | {"available":"500MB"}
+[2025-11-01 09:35:46]:[CLI]:[CLI]:[ERROR]:Email failed | {"to":"user@example.com"}
+[2025-11-01 09:35:46]:[CLI]:[CLI]:[DEBUG]:Session check | {"session_id":""}
